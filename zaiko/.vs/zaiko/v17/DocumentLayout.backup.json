@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Root\\source\\repos\\zaiko\\",
+  "WorkspaceRootPath": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\windowmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\windowmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\zaiko.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\windowmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\windowmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\zaiko.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zaiko\\zaiko.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\windowregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\windowregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\windowregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\windowmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\windowmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\windowmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\formanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\formanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\formanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\squeegeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\squeegeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\squeegeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\windowregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\windowregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\windowregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\root\\source\\repos\\zaiko\\zaiko\\inventoryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|c:\\users\\metro\\downloads\\squeegeezaiko_app_2-main\\squeegeezaiko_app_2-main\\zaiko\\zaiko\\inventoryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23C576D7-171F-41B1-8210-24BA7CE7CD80}|zaiko\\zaiko.csproj|solutionrelative:zaiko\\inventoryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -72,11 +72,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowMain.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowMain.xaml.cs",
+              "RelativeDocumentMoniker": "zaiko\\WindowMain.xaml.cs",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowMain.xaml.cs",
+              "RelativeToolTip": "zaiko\\WindowMain.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAMwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:02:59.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "zaiko\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\DatabaseManager.cs",
+              "RelativeToolTip": "zaiko\\DatabaseManager.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAMwMQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:11:47.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowMain.xaml",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowMain.xaml",
+              "RelativeDocumentMoniker": "zaiko\\WindowMain.xaml",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowMain.xaml",
+              "RelativeToolTip": "zaiko\\WindowMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-05T07:55:12.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "zaiko\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\DatabaseInitializer.cs",
+              "RelativeToolTip": "zaiko\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:55:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "zaiko.csproj.user",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\zaiko.csproj.user",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\zaiko.csproj.user",
               "RelativeDocumentMoniker": "zaiko\\zaiko.csproj.user",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\zaiko.csproj.user",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\zaiko.csproj.user",
               "RelativeToolTip": "zaiko\\zaiko.csproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
@@ -84,59 +134,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WindowMain.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowMain.xaml.cs",
-              "RelativeDocumentMoniker": "zaiko\\WindowMain.xaml.cs",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowMain.xaml.cs",
-              "RelativeToolTip": "zaiko\\WindowMain.xaml.cs",
-              "ViewState": "AgIAAE4BAAAAAAAAAAAIwFoBAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T12:02:59.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\DatabaseManager.cs",
-              "RelativeDocumentMoniker": "zaiko\\DatabaseManager.cs",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\DatabaseManager.cs",
-              "RelativeToolTip": "zaiko\\DatabaseManager.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAYwL0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T09:11:47.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WindowMain.xaml",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowMain.xaml",
-              "RelativeDocumentMoniker": "zaiko\\WindowMain.xaml",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowMain.xaml",
-              "RelativeToolTip": "zaiko\\WindowMain.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-05T07:55:12.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatabaseInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\DatabaseInitializer.cs",
-              "RelativeDocumentMoniker": "zaiko\\DatabaseInitializer.cs",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\DatabaseInitializer.cs",
-              "RelativeToolTip": "zaiko\\DatabaseInitializer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T02:55:01.814Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json",
               "RelativeDocumentMoniker": "zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json",
               "RelativeToolTip": "zaiko\\bin\\Debug\\net8.0-windows\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -146,9 +148,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "WindowRegistration.xaml",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowRegistration.xaml",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowRegistration.xaml",
               "RelativeDocumentMoniker": "zaiko\\WindowRegistration.xaml",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowRegistration.xaml",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowRegistration.xaml",
               "RelativeToolTip": "zaiko\\WindowRegistration.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-30T12:24:18.913Z"
@@ -157,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FormAnimation.cs",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\FormAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\FormAnimation.cs",
               "RelativeDocumentMoniker": "zaiko\\FormAnimation.cs",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\FormAnimation.cs",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\FormAnimation.cs",
               "RelativeToolTip": "zaiko\\FormAnimation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +171,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "WindowRegistration.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowRegistration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowRegistration.xaml.cs",
               "RelativeDocumentMoniker": "zaiko\\WindowRegistration.xaml.cs",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\WindowRegistration.xaml.cs",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\WindowRegistration.xaml.cs",
               "RelativeToolTip": "zaiko\\WindowRegistration.xaml.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAzwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +183,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "SqueegeeData.cs",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\SqueegeeData.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\SqueegeeData.cs",
               "RelativeDocumentMoniker": "zaiko\\SqueegeeData.cs",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\SqueegeeData.cs",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\SqueegeeData.cs",
               "RelativeToolTip": "zaiko\\SqueegeeData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,9 +195,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "InventoryRecord.cs",
-              "DocumentMoniker": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\InventoryRecord.cs",
+              "DocumentMoniker": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\InventoryRecord.cs",
               "RelativeDocumentMoniker": "zaiko\\InventoryRecord.cs",
-              "ToolTip": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\InventoryRecord.cs",
+              "ToolTip": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\InventoryRecord.cs",
               "RelativeToolTip": "zaiko\\InventoryRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

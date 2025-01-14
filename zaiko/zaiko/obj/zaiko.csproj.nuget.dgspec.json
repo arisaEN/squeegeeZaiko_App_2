@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\zaiko.csproj": {}
+    "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\zaiko.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\zaiko.csproj": {
+    "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\zaiko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\zaiko.csproj",
+        "projectUniqueName": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\zaiko.csproj",
         "projectName": "zaiko",
-        "projectPath": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\zaiko.csproj",
-        "packagesPath": "C:\\Users\\Root\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Root\\source\\repos\\zaiko\\zaiko\\obj\\",
+        "projectPath": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\zaiko.csproj",
+        "packagesPath": "C:\\Users\\metro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\metro\\Downloads\\squeegeeZaiko_App_2-main\\squeegeeZaiko_App_2-main\\zaiko\\zaiko\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "H:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\metro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
