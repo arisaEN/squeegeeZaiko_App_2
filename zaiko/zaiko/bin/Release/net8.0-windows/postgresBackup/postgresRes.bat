@@ -1,4 +1,5 @@
 @echo off
+:: 作成日: 2025年1月14日16:56
 set PGUSER=arisa
 set PGPASSWORD=arisa
 set PGHOST=localhost
