@@ -13,7 +13,10 @@ set BACKUP_FILE=C:\backup\backup_20250113_19.sql
 :: エラーチェック
 if %errorlevel% neq 0 (
     echo リストアに失敗しました。詳細は restore_error.log を確認してください。
+    timeout /t 5 >nul
     exit /b %errorlevel%
 ) else (
     echo リストア成功: %BACKUP_FILE%
+    timeout /t 3 >nul
+    exit 0
 )
