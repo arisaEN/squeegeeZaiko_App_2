@@ -1,0 +1,60 @@
+NOTICE:  drop cascades to 7 other objects
+DETAIL:  drop cascades to function update_timestamp()
+drop cascades to table "Mã‚¹ã‚­ãƒ¼ã‚¸"
+drop cascades to table "Må‰Šé™¤"
+drop cascades to table "Måœ¨åº«ç™»éŒ²æœ€æ–°"
+drop cascades to table "Måœ¨åº«ç™»éŒ²çŠ¶æ³"
+drop cascades to table "Tåœ¨åº«èª¿æŸ»"
+drop cascades to table "Tè£½å“æŠ•å…¥æ•°"
+DROP SCHEMA
+CREATE SCHEMA
+pg_restore: ƒŠƒXƒgƒA‚Ì‚½‚ßƒf[ƒ^ƒx[ƒX‚ÉÚ‘±‚µ‚Ä‚¢‚Ü‚·
+pg_restore: FUNCTION "public.update_timestamp()"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TABLE "public.Mã‚¹ã‚­ãƒ¼ã‚¸"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE "public.Mã‚¹ã‚­ãƒ¼ã‚¸_id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE OWNED BY "public.Mã‚¹ã‚­ãƒ¼ã‚¸_id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TABLE "public.Må‰Šé™¤"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE "public.Må‰Šé™¤_id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE OWNED BY "public.Må‰Šé™¤_id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TABLE "public.Måœ¨åº«ç™»éŒ²æœ€æ–°"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE "public.Måœ¨åº«ç™»éŒ²æœ€æ–°_åœ¨åº«ç™»éŒ²çŠ¶æ³id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE OWNED BY "public.Måœ¨åº«ç™»éŒ²æœ€æ–°_åœ¨åº«ç™»éŒ²çŠ¶æ³id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TABLE "public.Måœ¨åº«ç™»éŒ²çŠ¶æ³"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE "public.Måœ¨åº«ç™»éŒ²çŠ¶æ³_åœ¨åº«ç™»éŒ²çŠ¶æ³id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE OWNED BY "public.Måœ¨åº«ç™»éŒ²çŠ¶æ³_åœ¨åº«ç™»éŒ²çŠ¶æ³id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TABLE "public.Tåœ¨åº«èª¿æŸ»"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE "public.Tåœ¨åº«èª¿æŸ»_åœ¨åº«ç™»éŒ²id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE OWNED BY "public.Tåœ¨åº«èª¿æŸ»_åœ¨åº«ç™»éŒ²id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TABLE "public.Tè£½å“æŠ•å…¥æ•°"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE "public.Tè£½å“æŠ•å…¥æ•°_è£½å“æŠ•å…¥id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE OWNED BY "public.Tè£½å“æŠ•å…¥æ•°_è£½å“æŠ•å…¥id_seq"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: DEFAULT "public.Mã‚¹ã‚­ãƒ¼ã‚¸ ã‚¹ã‚­ãƒ¼ã‚¸id"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: DEFAULT "public.Må‰Šé™¤ å‰Šé™¤id"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: DEFAULT "public.Måœ¨åº«ç™»éŒ²æœ€æ–° åœ¨åº«ç™»éŒ²çŠ¶æ³id"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: DEFAULT "public.Måœ¨åº«ç™»éŒ²çŠ¶æ³ åœ¨åº«ç™»éŒ²çŠ¶æ³id"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: DEFAULT "public.Tåœ¨åº«èª¿æŸ» åœ¨åº«ç™»éŒ²id"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: DEFAULT "public.Tè£½å“æŠ•å…¥æ•° è£½å“æŠ•å…¥id"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: ƒe[ƒuƒ‹"public.Mã‚¹ã‚­ãƒ¼ã‚¸"‚Ìƒf[ƒ^‚ğˆ—‚µ‚Ä‚¢‚Ü‚·
+pg_restore: ƒe[ƒuƒ‹"public.Må‰Šé™¤"‚Ìƒf[ƒ^‚ğˆ—‚µ‚Ä‚¢‚Ü‚·
+pg_restore: ƒe[ƒuƒ‹"public.Måœ¨åº«ç™»éŒ²æœ€æ–°"‚Ìƒf[ƒ^‚ğˆ—‚µ‚Ä‚¢‚Ü‚·
+pg_restore: ƒe[ƒuƒ‹"public.Måœ¨åº«ç™»éŒ²çŠ¶æ³"‚Ìƒf[ƒ^‚ğˆ—‚µ‚Ä‚¢‚Ü‚·
+pg_restore: ƒe[ƒuƒ‹"public.Tåœ¨åº«èª¿æŸ»"‚Ìƒf[ƒ^‚ğˆ—‚µ‚Ä‚¢‚Ü‚·
+pg_restore: ƒe[ƒuƒ‹"public.Tè£½å“æŠ•å…¥æ•°"‚Ìƒf[ƒ^‚ğˆ—‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE SET Mã‚¹ã‚­ãƒ¼ã‚¸_id_seq‚ğÀs‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE SET Må‰Šé™¤_id_seq‚ğÀs‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE SET Måœ¨åº«ç™»éŒ²æœ€æ–°_åœ¨åº«ç™»éŒ²çŠ¶æ³id_seq‚ğÀs‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE SET Måœ¨åº«ç™»éŒ²çŠ¶æ³_åœ¨åº«ç™»éŒ²çŠ¶æ³id_seq‚ğÀs‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE SET Tåœ¨åº«èª¿æŸ»_åœ¨åº«ç™»éŒ²id_seq‚ğÀs‚µ‚Ä‚¢‚Ü‚·
+pg_restore: SEQUENCE SET Tè£½å“æŠ•å…¥æ•°_è£½å“æŠ•å…¥id_seq‚ğÀs‚µ‚Ä‚¢‚Ü‚·
+pg_restore: CONSTRAINT "public.Mã‚¹ã‚­ãƒ¼ã‚¸ Mã‚¹ã‚­ãƒ¼ã‚¸_pkey"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: CONSTRAINT "public.Må‰Šé™¤ Må‰Šé™¤_pkey"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: CONSTRAINT "public.Måœ¨åº«ç™»éŒ²æœ€æ–° Måœ¨åº«ç™»éŒ²æœ€æ–°_pkey"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: CONSTRAINT "public.Måœ¨åº«ç™»éŒ²çŠ¶æ³ Måœ¨åº«ç™»éŒ²çŠ¶æ³_pkey"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: CONSTRAINT "public.Tåœ¨åº«èª¿æŸ» Tåœ¨åº«èª¿æŸ»_pkey"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: CONSTRAINT "public.Tè£½å“æŠ•å…¥æ•° Tè£½å“æŠ•å…¥æ•°_pkey"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: CONSTRAINT "public.Tè£½å“æŠ•å…¥æ•° unique_æŠ•å…¥å¹´æœˆæ—¥"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TRIGGER "public.Mã‚¹ã‚­ãƒ¼ã‚¸ set_update_timestamp"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TRIGGER "public.Må‰Šé™¤ set_update_timestamp"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TRIGGER "public.Måœ¨åº«ç™»éŒ²æœ€æ–° set_update_timestamp"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TRIGGER "public.Måœ¨åº«ç™»éŒ²çŠ¶æ³ set_update_timestamp"‚ğì¬‚µ‚Ä‚¢‚Ü‚·
+pg_restore: TRIGGER "public.Tåœ¨åº«èª¿æŸ» set_update_timestamp"‚ğì¬‚µ‚Ä‚¢‚Ü‚·

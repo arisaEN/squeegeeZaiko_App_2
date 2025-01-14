@@ -1,0 +1,48 @@
+﻿<Window x:Class="zaiko.WindowMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zaiko"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        mc:Ignorable="d"
+        Title="WindowMain" Height="600" Width="1000">
+
+    <Grid>
+        <!-- Define RowDefinitions to split the layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <!-- 2 parts for the chart -->
+            <RowDefinition Height="3*" />
+            <!-- 3 parts for the DataGrid -->
+            <RowDefinition Height="Auto" />
+            <!-- Auto size for the DatePicker -->
+            <RowDefinition Height="Auto" />
+            <!-- Auto size for the buttons -->
+        </Grid.RowDefinitions>
+
+        <!-- CartesianChart (Graph) on the top part -->
+        <lvc:CartesianChart Name="LineChart" Margin="0" Grid.Row="0">
+            <lvc:CartesianChart.AxisX>
+                <lvc:Axis Title="登録日" Labels="{Binding Dates}" />
+            </lvc:CartesianChart.AxisX>
+            <lvc:CartesianChart.AxisY>
+                <lvc:Axis Title="廃棄までの長さ" />
+            </lvc:CartesianChart.AxisY>
+        </lvc:CartesianChart>
+
+        <!-- DataGrid below the chart -->
+        <DataGrid Name="resultDataGrid" Height="300" Grid.Row="1" Margin="0" CanUserAddRows="False" IsReadOnly="True" />
+
+
+
+        <!-- Buttons at the bottom -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10" Grid.Row="3">
+            <!-- 1st button -->
+            <Button x:Name="zaikoB" Content="入荷後登録" Click="Arrival_Button_Click" Margin="5" />
+
+            <!-- 2nd button -->
+            <Button x:Name="kenmaB" Content="研磨後登録" Click="Polishing_Button_Click" Margin="5" />
+        </StackPanel>
+    </Grid>
+</Window>

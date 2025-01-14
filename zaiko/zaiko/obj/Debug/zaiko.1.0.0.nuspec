@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>zaiko</id>
+    <version>1.0.0</version>
+    <authors>zaiko</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="CommunityToolkit.Mvvm" version="8.4.0" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignColors" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignThemes" version="5.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.EnvironmentVariables" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Npgsql" version="9.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Root\source\repos\zaiko\zaiko\bin\Debug\net8.0-windows\zaiko.runtimeconfig.json" target="lib\net8.0-windows7.0\zaiko.runtimeconfig.json" />
+    <file src="C:\Users\Root\source\repos\zaiko\zaiko\bin\Debug\net8.0-windows\zaiko.dll" target="lib\net8.0-windows7.0\zaiko.dll" />
+  </files>
+</package>
